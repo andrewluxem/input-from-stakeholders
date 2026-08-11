@@ -1,0 +1,17 @@
+{
+  "name": "input-from-stakeholders",
+  "version": "1.0.0",
+  "description": "Collects and synthesizes attributed stakeholder input without manufacturing consensus. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/input-from-stakeholders",
+  "repository": "https://github.com/andrewluxem/input-from-stakeholders",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "stakeholder-input",
+    "synthesis"
+  ]
+}
