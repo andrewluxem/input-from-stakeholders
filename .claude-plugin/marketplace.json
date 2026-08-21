@@ -1,0 +1,23 @@
+{
+  "name": "input-from-stakeholders",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Collects and synthesizes attributed stakeholder input without manufacturing consensus. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "input-from-stakeholders",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Collects and synthesizes attributed stakeholder input without manufacturing consensus. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "stakeholder-input",
+        "synthesis"
+      ]
+    }
+  ]
+}
